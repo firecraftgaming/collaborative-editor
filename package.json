@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:firecraftgaming/collaborative-editor.git",
   "author": "samrath2007 <samrath1324@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
