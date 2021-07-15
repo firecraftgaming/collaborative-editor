@@ -1,0 +1,8 @@
+{
+  "name": "collaborative-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:firecraftgaming/collaborative-editor.git",
+  "author": "samrath2007 <samrath1324@gmail.com>",
+  "license": "MIT"
+}
